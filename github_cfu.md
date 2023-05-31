@@ -1,0 +1,3 @@
+- git add <filename>
+- git log 
+- git commit -m "Message here" 
